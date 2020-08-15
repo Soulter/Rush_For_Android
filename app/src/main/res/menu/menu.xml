@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.soulter.replygf.MainActivity">
+
+    <item
+        android:id="@+id/link"
+        android:orderInCategory="100"
+        android:title="连接"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/settings"
+        android:title="设置awa"
+        app:showAsAction="always" />
+
+</menu>
